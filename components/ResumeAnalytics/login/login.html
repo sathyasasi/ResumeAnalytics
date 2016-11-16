@@ -1,0 +1,23 @@
+<div class="row full-page1">
+  <center>
+     <div class="login" >
+        <img src="img/logo-white.png" alt=" ResumeAnalytics Logo" width="80px"/>
+        <label></label>
+           <form name="LoginForm" ng-submit="LoginCall()" novalidate>
+             <div class="form-group" ng-class="login1">
+               <label for="username"></label>
+               <input ng-model="LoginValue.username" required type="text" class="form-control" name="username" id="username" placeholder="username">
+              </div>
+              <div class="form-group" ng-class="login2">
+                <label for="password"></label>
+                <input ng-model="LoginValue.password" required type="password" class="form-control" name="password" id="password" placeholder="password">
+              </div>
+              <div class="form-group">
+                 <button  ng-disabled="LoginForm.$invalid" type="submit" class="btn btn-primary login-btn" onClick="location.href='upload/upload.html'" value="GO TO URL">Log In</button>
+                 <p>login successful: <b>{{result}}</b></p>
+               s   <div ui-view></div>  
+             </div>
+            </form>
+          </div>
+   </center>
+</div>

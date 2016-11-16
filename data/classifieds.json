@@ -1,0 +1,120 @@
+[
+    {
+        "id": "1",
+        "item": "First Item",
+        "price": "$10,00",
+        "description": "kjhkjhadsja kjhjdkahd jhfjkasdhf",
+        "posted": "2016-10-02",
+        "contact":
+        {
+        	"account":"12345",
+        	"email": "example@gmail.com",
+        	"phone": "829392023349"
+        },
+         "categories":[
+            "nsdmsad",
+            "ckfdd"
+        ],
+        "views": "123",
+        "image": "http://www.louisianasportsman.com/classifieds/pics/p1358549934434943.jpg"
+
+    },
+    {
+        "id": "2",
+        "item": "Second Item",
+        "price": "$160,00",
+        "description": "kjhkjhadsja kjhjdkahd jhfjkasdhf",
+        "posted": "2016-10-12",
+        "contact":
+        {
+        	"account":"12345",
+        	"email": "example@gmail.com",
+        	"phone": "829392023349"
+        },
+         "categories":[
+            "gagds",
+            "carsklasdj"
+        ],
+        "views": "123",
+        "image": "http://www.louisianasportsman.com/classifieds/pics/p1358549934434943.jpg"
+    },
+    {
+        "id": "3",
+        "item": "Third Item",
+        "price": "$20,00",
+        "description": "kjhkjhadsja kjhjdkahd jhfjkasdhf",
+        "posted": "2016-10-26",
+        "contact":
+        {
+        	"account":"12345",
+        	"email": "example@gmail.com",
+        	"phone": "829392023349"
+        },
+         "categories":[
+            "vehicles",
+            "cars"
+        ],
+        "views": "123",
+        "image": "http://www.louisianasportsman.com/classifieds/pics/p1358549934434943.jpg"
+
+    },
+    {
+        "id": "4",
+        "item": "Fourth Item",
+        "price": "$120,00",
+        "description": "kjhkjhadsja kjhjdkahd jhfjkasdhf",
+        "posted": "2016-10-20",
+        "contact":
+        {
+        	"account":"12345",
+        	"email": "example@gmail.com",
+        	"phone": "829392023349"
+        },
+        "categories":[
+            "vehicles",
+            "cars"
+        ],
+        "views": "123",
+        "image": "http://www.louisianasportsman.com/classifieds/pics/p1358549934434943.jpg"
+
+     },
+    {
+        "id": "5",
+        "item": "Fifth Item",
+        "price": "$40,00",
+        "description": "kjhkjhadsja kjhjdkahd jhfjkasdhf",
+        "posted": "2016-10-22",
+        "contact":
+        {
+        	"account":"12345",
+        	"email": "example@gmail.com",
+        	"phone": "829392023349"
+        },
+         "categories":[
+            "adsdvehicles",
+            "kledfdcars"
+        ],
+        "views": "123",
+        "image": "http://www.louisianasportsman.com/classifieds/pics/p1358549934434943.jpg"
+
+    },
+    {
+        "id": "6",
+        "item": "six Item",
+        "price": "$50,00",
+        "description": "kjhkjhadsja kjhjdkahd jhfjkasdhf",
+        "posted": "2016-10-15",
+        "contact":
+        {
+        	"account":"12345",
+        	"email": "example@gmail.com",
+        	"phone": "829392023349"
+        },
+         "categories":[
+            "iuipovehicles",
+            "addfcars"
+        ], 
+        "views": "123",
+        "image": "http://www.louisianasportsman.com/classifieds/pics/p1358549934434943.jpg"
+
+    }] 
